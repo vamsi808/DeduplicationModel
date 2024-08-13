@@ -1,0 +1,51 @@
+2024-07-01 19:26:49,521 - INFO - Logging setup complete.
+2024-07-01 19:28:59,678 - INFO - Logging setup complete.
+2024-07-01 19:28:59,681 - INFO - Starting deduplication process
+2024-07-01 19:28:59,681 - INFO - Input file input.csv validated successfully.
+2024-07-01 19:28:59,792 - INFO - Duplicates removed and saved to output.csv
+2024-07-01 19:28:59,792 - INFO - Deduplication process completed successfully
+2024-07-01 19:29:11,388 - INFO - Logging setup complete.
+2024-07-01 19:29:11,388 - INFO - Starting deduplication process
+2024-07-01 19:29:11,388 - INFO - Input file input.csv validated successfully.
+2024-07-01 19:29:11,538 - INFO - Duplicates removed and saved to output.csv
+2024-07-01 19:29:11,541 - INFO - Deduplication process completed successfully
+2024-07-01 21:59:59,451 - INFO - Logging setup complete.
+2024-07-01 21:59:59,451 - INFO - Starting deduplication process
+2024-07-01 21:59:59,451 - INFO - Input file input.csv validated successfully.
+2024-07-01 21:59:59,585 - INFO - Duplicates removed and saved to output.csv
+2024-07-01 21:59:59,586 - INFO - Deduplication process completed successfully
+2024-07-09 21:55:08,352 - INFO - Logging setup complete.
+2024-07-09 21:55:08,352 - INFO - Starting deduplication process
+2024-07-09 21:55:08,352 - INFO - Input file input.csv validated successfully.
+2024-07-09 21:55:08,410 - INFO - Duplicates removed and saved to output.csv
+2024-07-09 21:55:08,410 - INFO - Deduplication process completed successfully
+2024-07-09 22:05:09,294 - INFO - Logging setup complete.
+2024-07-09 22:05:09,294 - INFO - Starting deduplication process
+2024-07-09 22:05:09,294 - INFO - Input file input.csv validated successfully.
+2024-07-09 22:05:09,421 - INFO - Duplicates removed and saved to output.csv
+2024-07-09 22:05:09,421 - INFO - Deduplication process completed successfully
+2024-07-11 09:48:19,094 - INFO - Logging setup complete.
+2024-07-11 09:48:19,094 - INFO - Starting deduplication process
+2024-07-11 09:48:19,094 - INFO - Input file input.csv validated successfully.
+2024-07-11 09:48:19,155 - INFO - Duplicates removed and saved to output.csv
+2024-07-11 09:48:19,158 - INFO - Deduplication process completed successfully
+2024-07-11 14:27:37,782 - INFO - Logging setup complete.
+2024-07-11 14:27:37,782 - INFO - Starting deduplication process
+2024-07-11 14:27:37,782 - INFO - Input file input.csv validated successfully.
+2024-07-11 14:27:37,877 - INFO - Duplicates removed and saved to output.csv
+2024-07-11 14:27:37,877 - INFO - Deduplication process completed successfully
+2024-07-23 10:07:47,607 - INFO - Logging setup complete.
+2024-07-23 10:07:47,607 - INFO - Starting deduplication process
+2024-07-23 10:07:47,607 - INFO - Input file input.csv validated successfully.
+2024-07-23 10:07:47,671 - INFO - Duplicates removed and saved to output.csv
+2024-07-23 10:07:47,671 - INFO - Deduplication process completed successfully
+2024-07-23 10:32:16,847 - INFO - Logging setup complete.
+2024-07-23 10:32:16,847 - INFO - Starting deduplication process
+2024-07-23 10:32:16,847 - INFO - Input file iput.csv validated successfully.
+2024-07-23 10:32:17,214 - INFO - Duplicates removed and saved to output.csv
+2024-07-23 10:32:17,264 - INFO - Deduplication process completed successfully
+2024-07-23 10:42:24,882 - INFO - Logging setup complete.
+2024-07-23 10:42:24,882 - INFO - Starting deduplication process
+2024-07-23 10:42:24,882 - INFO - Input file iput.csv validated successfully.
+2024-07-23 10:42:25,142 - INFO - Duplicates removed and saved to output.csv
+2024-07-23 10:42:25,143 - INFO - Deduplication process completed successfully
